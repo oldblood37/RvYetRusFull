@@ -30,3 +30,5 @@
 
 <br>Все эти файла (смотря что нужно, можно и все) перетащить в папку по этому пути:
 "(тут ваш диск и папка стима D:\Steam)\steamapps\common\Ride\Ride\Content\Paks"<br/>
+
+Задать вопросы можно в этом руководстве стим - https://steamcommunity.com/sharedfiles/filedetails/?id=3600646118
