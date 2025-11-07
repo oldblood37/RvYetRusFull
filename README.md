@@ -1,5 +1,6 @@
 # RvYetRusFull
 Русская локализация текста и текстур + шрифт для игры Rv there yet
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/6608c13e-989f-4fa3-8860-dd1bcc179853" />
 
 ## Что переведно:
 - ✅ текст
