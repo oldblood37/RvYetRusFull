@@ -36,3 +36,6 @@
 
 
 Задать вопросы можно в этом руководстве стим - https://steamcommunity.com/sharedfiles/filedetails/?id=3600646118
+
+## Дополнительные моды автора:
+Музыка для кассет - Рамштайн - https://github.com/oldblood37/RvThereYet-Rammstein-Music 
